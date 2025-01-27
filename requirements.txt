@@ -1,1 +1,4 @@
-#### Replicating Deepseek under 1B with reasoning as learning guide.
+#### Replicating Deepseek under 1B with reasoning as learning guide
+
+Start with miniworld
+
